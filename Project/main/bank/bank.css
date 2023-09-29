@@ -1,0 +1,506 @@
+* {
+    box-sizing: border-box;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a {
+    text-decoration: none;
+    width: 51px;
+    height: 16px;
+    padding: 10px;
+}
+
+.Green_mort {
+    position: relative;
+}
+
+.green_img {
+    position: absolute;
+    margin-left: -95px;
+    margin-top: 40px;
+}
+
+.Progect_3 {
+    width: 1920px;
+    margin: 0 auto;
+}
+
+.Logo {
+    height: 60px;
+    padding-top: 10px;
+}
+
+.Logo_OKS {
+    margin-left: 306px;
+    padding-top: 20px;
+}
+
+.blue {
+    font-weight: 700;
+}
+
+.Logo_img {
+    width: 203.47px;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -216px;
+}
+
+.Logo_OKS a {
+    color: #222445;
+    padding: 25px;
+    margin-left: 10px;
+}
+
+.whatchap {
+    width: 241px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 30px;
+    margin-left: 1016px;
+    margin-top: -35px;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+
+}
+
+.whatchap_img {
+    width: 34.83px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.whatchap_number {
+    position: absolute;
+    width: 157px;
+    height: 23px;
+    margin-top: 15px;
+    margin-left: 9px;
+    font-size: 20px;
+}
+
+.language {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-left: 1306px;
+    margin-top: -60px;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+
+}
+
+.language_Ru {
+    position: absolute;
+    font-size: 20px;
+    width: 24px;
+    height: 23px;
+    margin-left: 18px;
+    margin-top: 15px;
+}
+
+.heart {
+    margin-top: -45px;
+    margin-left: 1405px;
+}
+
+.love {
+    width: 38.15px;
+    height: 35px;
+}
+
+.bank_logo {
+    margin-top: 50px;
+    margin-left: 95px;
+}
+
+.bank_logo h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70.31px;
+}
+
+.bank_span_gray {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #9BA2A7;
+}
+
+.bank_text {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bank_span_blue {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #222445;
+}
+
+.family {
+    margin-left: 95px;
+}
+
+.family_block {
+    width: 1760px;
+    height: 657px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 5px 10px 30px 0px #4C52551A;
+}
+
+.family_bank {
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.bank_procent {
+    margin-top: 70px;
+    margin-left: 35px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bank_procent button {
+    height: 60px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 46.88px;
+    text-align: Center;
+    color: #222445;
+    border-radius: 130px;
+    border: 2px solid #F3CC3F;
+    background-color: #FFFFFF;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+}
+
+.bank_procent_btn1 {
+    width: 167px;
+}
+
+.bank_procent_btn2 {
+    width: 167px;
+}
+
+.bank_procent_btn3 {
+    width: 379px;
+}
+
+.bank_procent_btn4 {
+    width: 157px;
+}
+
+.bank_program {
+    width: 1284px;
+    margin-left: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.program1 {
+    margin-top: 40px;
+    width: 617px;
+    height: 337px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    border: 2px solid #C8D6DF;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+
+}
+
+.program1 h1 {
+    margin-left: 15px;
+}
+
+.program_yellow {
+    width: 205;
+    height: 1px;
+    border: 2px solid #F3CC3F;
+    border-radius: 2px;
+}
+
+.bank_program_text {
+    margin-left: 15px;
+    width: 557px;
+    height: 184px;
+}
+
+.program1 p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.program1 span {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #222445;
+}
+
+.message {
+    width: 100px;
+    height: 100px;
+    margin-left: 1005px;
+    margin-top: -50px;
+    border-radius: 130px;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+    border: 2px solid #F3CC3F;
+    background-color: #FFFFFFCC;
+    position: absolute;
+}
+
+.message img {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Freedom {
+    margin-top: 150px;
+    margin-left: 135px;
+}
+
+.Freedom_img_block {
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Freedom button {
+    margin-top: 70px;
+    height: 47px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 46.88px;
+    text-align: Center;
+    color: #222445;
+    border-radius: 130px;
+    border: 2px solid #F3CC3F;
+    background-color: #FFFFFF;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+}
+
+.bank_procent_btn5 {
+    width: 580px;
+}
+
+.Freedom_text {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.Freedom_text p {
+    font-weight: 700;
+}
+
+.p_reverse {
+    color: black;
+}
+
+.span_reverse {
+    color: #222445;
+}
+
+.pricing {
+    margin-top: 120px;
+    margin-left: 100px;
+    width: 1760px;
+    height: 625px;
+    border-radius: 50px;
+    box-shadow: 5px 10px 30px 0px #4C52551A;
+    background-color: #FFFFFF;
+}
+
+.pricing_img {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.pricing_blocks{
+    margin-left: 40px;
+    width: 1680px;
+    display: flex;
+    justify-content: space-between;
+}
+.block_one {
+    margin-top: 150px;
+    width: 617px;
+    height: 417px;
+    border-radius: 30px;
+    border: 2px solid #C8D6DF;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+    background-color: #FFFFFF;
+}
+.block_two{
+    margin-top: 150px;
+    width: 1023px;
+    height: 417px;
+    border-radius: 30px;
+    border: 2px solid #C8D6DF;
+    box-shadow: 2px 5px 15px 0px #4C52551A;
+    background-color: #FFFFFF;
+}
+.block_yellow{
+    margin-left: 30px;
+    width: 205px;
+    border: 2px solid #F3CC3F;
+    border-radius: 2px;
+}
+.block_one h1{
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #222445;
+}
+.block_text{
+    margin-left: 20px;
+    width: 558px;
+    height: 112px;
+}
+.block_text p{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28.13px;
+}
+.block_text span{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28.13px;
+}
+.block_two h1{
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #222445;
+}
+.block_text_2{
+    margin-left: 20px;
+    width: 963px;
+    height: 280px;
+}
+.block_text_2 p{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28.13px;
+}
+.block_text_2 span{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28.13px;
+}
+.last_hr{
+    width: 1920px;
+    margin-top: 100px;
+    border: 1px solid #F3CC3F;
+}
+.Footer{
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 1550px;
+    height: 725px;
+    display: flex;
+    justify-content: space-between;
+}
+.Footer_img{
+    position: absolute;
+}
+.Footer_one{
+    margin-top: 100px;
+    margin-left: -150px;
+    width: 550px;
+    height: 434px;
+    border-radius: 0px 50px 50px 0px;
+    background: #FFFFFF;
+    box-shadow: 5px 10px 30px 0px #4C52551A;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.Footer_one img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 140px;
+}
+.Footer_one p{
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+.Footer_one a{
+    text-decoration: underline;
+    width: 270px;
+    color: #222445;
+    padding: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+.Footer_one span{
+    margin-left: 40px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+.footer_a1{
+    margin-left: 132px;
+}
+.footer_a2{
+    margin-left: 132px;
+}
+.footer_a3{
+    margin-left: 148px;
+}
+.phone_1{
+    margin-top: 45px;
+}
+.phone_2{
+    margin-top: 105px;
+}
+.phone_3{
+    margin-top: 170px;
+}
+.phone_4{
+    margin-top: 230px;
+}
+.phone_5{
+    margin-top: 285px;
+}
+.footer_a{
+    margin-left: 150px;
+}
+.Footer_two h1{
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #9BA2A7;
+}
+.Footer_two p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #222445;
+}
+.Footer_three h1{
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #9BA2A7;
+}
+.Footer_three p{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #222445;
+}
+.last_img{
+    width: 1800px;
+    position: absolute;
+    margin-top: 600px;
+}
