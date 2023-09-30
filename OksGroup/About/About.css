@@ -538,15 +538,21 @@ a {
     line-height: 23.44px;
     color: #222445;
 }
+.company{
+    width: 150px;
+}
 .Footer_three h1{
+    margin-left: 10px;
     font-size: 40px;
     line-height: 46.88px;
     color: #9BA2A7;
 }
-.Footer_three p{
+.Footer_three a{
     font-weight: 700;
     font-size: 20px;
     line-height: 23.44px;
+    margin-bottom: 20px;
+    display: block; 
     color: #222445;
 }
 .last_img{
